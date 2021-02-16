@@ -20,8 +20,8 @@
 
 ### Herramientas usadas 🛠️
 ***
-* [VisualStudio]
-* [Prepros]
+* VisualStudio
+* Prepros
 
 ## Instalacion 🚀
 ***
@@ -39,8 +39,8 @@ Si quieres colaborar hazte un git clone y a jugar!
 
 ## Tecnologias :pencil2: 📐
 ***
-* [scss]
-* [Html.5]
+* scss
+* Html.5
 ***
 ## Autora ✒️
 ***
