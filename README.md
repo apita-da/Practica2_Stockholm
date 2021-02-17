@@ -12,11 +12,11 @@
 ### General Info 📋
 ***
 * Primera práctica del curso de Desarrolladora Web Junior de BeJob para Woman4it.
-* En esta ejercicio lo que teniamos que hacer es una copia de la páginad de inicio de Stokholm[https://demo.select-themes.com/stockholm14/]
+* En esta ejercicio lo que teniamos que hacer es una copia de la páginad de inicio de Stokholm https://demo.select-themes.com/stockholm14/
 
 ### Screenshot 📷
 ***
-![Image text]()
+![Image text](https://github.com/apita-da/Practica2_Stockholm/blob/master/screenshotstock.PNG)
 
 ### Herramientas usadas 🛠️
 ***
